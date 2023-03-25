@@ -1,2 +1,5 @@
 # 24.2.3_HW
-this is a test project for testing calculator (some positive and 1 negative tests)
+ 
+Задание 24.2.3 Написание позитивных тестов к приложению калькулятор
+В файле calculator содержится код приложения
+В файле test_calculator содержится код с позитивными тестами приложения калькулятор
